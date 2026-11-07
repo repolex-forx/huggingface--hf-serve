@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "hf-serve",
+  "versions": [
+    {
+      "commit": "b3ec975552e2db3e087d7bb5696ae6d1afd21c35",
+      "tag": "",
+      "parsed_at": "2026-11-07T22:56:28.939596+00:00"
+    }
+  ]
+}
